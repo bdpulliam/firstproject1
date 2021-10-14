@@ -41,6 +41,7 @@ print ("2.5:", Accounts)
 savingstuple=('(Bill, 1000),' '(Jack, 5000),' '(Amy, 6700),' '(Cindy, 5699),' '(Harry, 6700)')
 print("2.6:", savingstuple)
 
+
 #Problem 2.7
 #Differences among lists, sets and dictionaries
 print ("2.7:", 'A list is a collection of ordered data. ' \
@@ -49,3 +50,5 @@ print ("2.7:", 'A list is a collection of ordered data. ' \
        'A dictionary is a an unordered collection of data that stores that data ' \
        'in key-value pairs.')
 
+#Problem 2.8
+print ("hello")
